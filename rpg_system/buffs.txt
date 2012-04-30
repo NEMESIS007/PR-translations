@@ -27,7 +27,7 @@
 	{
 		"name" "Crawling"
 		"name_es"	"Arrastrarse"
-		"name_pt"	"Rastejar"
+		"name_pt"	"Arrastar"
                 "name_ru"       "Ползком"
 		"desc" "Allow crawling while incapacitated"
 		"desc_es"	"Permite arrastrarse cuando se esta incapacitado"
